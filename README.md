@@ -24,7 +24,9 @@ To run this application, ensure you have the following dependencies installed:
 
 Install the required packages using pip:
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   bashCopypip install opencv-python numpy torch easyocr customtkinter ultralytics   `
+```bash
+pip install opencv-python numpy torch easyocr customtkinter ultralytics
+```
 
 These dependencies include:
 
@@ -78,3 +80,4 @@ The user-friendly GUI allows you to:
 *   **Real-Time Face Matching**: Implement face matching with a live webcam feed.
     
 *   **Multi-Language OCR**: Extend text recognition to support more languages with EasyOCR's multilingual capabilities.
+
