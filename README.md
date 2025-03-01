@@ -51,7 +51,7 @@ These dependencies include:
 
 ### **Face Matching**:
 
-*   Upload two images, and the app will compare the faces to check for matches, utilizing face embeddings (likely from OpenCV's Dlib or a similar model).
+*   Upload two images, and the app will compare the faces to check for matches, utilizing face embeddings.
     
 
 ### **Text Recognition**:
